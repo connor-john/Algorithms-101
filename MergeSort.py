@@ -2,7 +2,7 @@
 """
 Created on Mon Jul 24 18:37:45 2017
 
-@author: cjrtaylor
+@author: cjrTaylor
 """
 
 def mergeSort(alist):
