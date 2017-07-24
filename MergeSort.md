@@ -7,4 +7,7 @@
     2. Recursively sort the first and the second halves of seperately
 2. Finally, merge the two sorted lists into one sorted list
 
+## Time Complexity Analysis
 
+//to be done
+//need math packages still
